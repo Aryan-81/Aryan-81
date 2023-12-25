@@ -1,12 +1,14 @@
-## <div align="center"><img src="img.gif" align="center" style="width: 100%" /></div>
-<div align="center"><img src="hello.gif"  style="width:20em; margin:1%; margin-right:2%" /><div style="font-weight: bold; font-size: 2em;">  I'm Aryan Raj🚀</div></div>
-<br>
+## <div align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width: 100%" /></div>
+<div align="center">
+  <img src="https://github.com/Aryan-81/Aryan-81/blob/main/hello.gif"/></div>
+  
+# <div  align="center" >  I'm Aryan Raj🚀 </div><br>
 <div align="center">
   <a href="linkedin.com/in/aryan-raj-121585259"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="llaryanllrajll@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?logo=Gmail&logoColor=white" alt="Email"></a>
 <!-- <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white" alt="Instagram"></a> -->
 </div>
-<br><hr>
+<hr>
 I'm a Contributor from India 
 - 🔭 I’m currently a B.Tech student at IIT Jammu, India    
 
@@ -20,7 +22,7 @@ I'm a Contributor from India
 <br>
 <br>
 
-# 💻 Tech Stack:  
+## 💻 Tech Stack:  
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/C%2B%2B-%2300609c?style=for-the-badge&logo=C%2B%2B">
@@ -39,7 +41,7 @@ I'm a Contributor from India
 <br/>
 
 ##  📊Stats
-<div style="text-align: center;"><img src="https://github-readme-stats.vercel.app/api?username=Aryan-81&show_icons=true&theme=gruvbox" alt="GitHub Stats"></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aryan-81&show_icons=true&theme=gruvbox" alt="GitHub Stats"></div>
 <br>
 <div align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryan-81" alt="Aryan-81" style="width: 45em" /></a> </div>
 <br>
