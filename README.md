@@ -16,7 +16,7 @@
 I'm a Contributor from India 
 - 🔭 I’m currently a B.Tech student at IIT Jammu, India    
 
-- 🌱 I’m currently learning React and JavaScript 
+- 🌱 I’m currently learning Rust  
 
 - ❓ Ask me about anything related to Python and C++ 
   
